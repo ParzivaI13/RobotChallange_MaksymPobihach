@@ -1,0 +1,8 @@
+C:\Users\maxum\source\repos\PobihachMaksym.RobotChallange\bin\Debug\PobihachMaksym.RobotChallange.dll
+C:\Users\maxum\source\repos\PobihachMaksym.RobotChallange\bin\Debug\PobihachMaksym.RobotChallange.pdb
+C:\Users\maxum\source\repos\PobihachMaksym.RobotChallange\bin\Debug\Robot.Common.dll
+C:\Users\maxum\source\repos\PobihachMaksym.RobotChallange\obj\Debug\PobihachMaksym.RobotChallange.csproj.AssemblyReference.cache
+C:\Users\maxum\source\repos\PobihachMaksym.RobotChallange\obj\Debug\PobihachMaksym.RobotChallange.csproj.CoreCompileInputs.cache
+C:\Users\maxum\source\repos\PobihachMaksym.RobotChallange\obj\Debug\Pobihach.684C3914.Up2Date
+C:\Users\maxum\source\repos\PobihachMaksym.RobotChallange\obj\Debug\PobihachMaksym.RobotChallange.dll
+C:\Users\maxum\source\repos\PobihachMaksym.RobotChallange\obj\Debug\PobihachMaksym.RobotChallange.pdb

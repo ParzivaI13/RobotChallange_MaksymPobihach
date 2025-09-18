@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxum\\source\\repos\\PobihachMaksym.RobotChallange\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8B215E-ED75-44DA-9A98-23FF10B36FC3}|..\\PobihachMaksym.RobotChallange.Test\\PobihachMaksym.RobotChallange.Test.csproj|c:\\users\\maxum\\source\\repos\\pobihachmaksym.robotchallange.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67C8519A-01CA-42A9-852C-CE555F7D290B}|PobihachMaksym.RobotChallange.csproj|C:\\Users\\maxum\\source\\repos\\PobihachMaksym.RobotChallange\\pobihachmaksymalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67C8519A-01CA-42A9-852C-CE555F7D290B}|PobihachMaksym.RobotChallange.csproj|solutionrelative:pobihachmaksymalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\maxum\\source\\repos\\PobihachMaksym.RobotChallange.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\PobihachMaksym.RobotChallange.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\maxum\\source\\repos\\PobihachMaksym.RobotChallange.Test\\UnitTest1.cs",
+              "RelativeToolTip": "..\\PobihachMaksym.RobotChallange.Test\\UnitTest1.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAAANQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T08:10:25.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PobihachMaksymAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\maxum\\source\\repos\\PobihachMaksym.RobotChallange\\PobihachMaksymAlgorithm.cs",
+              "RelativeDocumentMoniker": "PobihachMaksymAlgorithm.cs",
+              "ToolTip": "C:\\Users\\maxum\\source\\repos\\PobihachMaksym.RobotChallange\\PobihachMaksymAlgorithm.cs",
+              "RelativeToolTip": "PobihachMaksymAlgorithm.cs",
+              "ViewState": "AgIAAFwBAAAAAAAAAAAmwHoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T19:13:28.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
